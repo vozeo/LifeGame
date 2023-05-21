@@ -1,2 +1,0 @@
-# LifeGame
-Software engineering homework.
